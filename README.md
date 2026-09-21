@@ -127,7 +127,10 @@ O programa principal:
 * **Ambiente:** Linux
 
 ---
+### Autor
+**Victotino Afosno**.
 
 **Disciplina:** CI1001 — Programação 1
+
 **Universidade Federal do Paraná — UFPR**
 
